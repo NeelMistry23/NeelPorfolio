@@ -403,6 +403,7 @@ footer .footer-rights {
    .firstSection {
     flex-direction: column;
     text-align: center;
+    margin-top: 320px;
   }
 
   .leftSection, .rightSection {
